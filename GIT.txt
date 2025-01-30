@@ -1,0 +1,36 @@
+mgbban003@nightmare:~/Desktop/CSC2002S/PCP_ParallelAssignment$ git log --all
+commit ee423b4350325777f3c5addab5631a4dbc77905e (HEAD -> master)
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Wed Aug 14 17:15:10 2024 +0000
+
+     Added comments on my code
+
+commit 05af74270c9f057e56aed34d70a732843dc74ad9
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Tue Aug 13 21:01:53 2024 +0000
+
+    Changed sequentially cut-off to a constant variable.
+
+commit 4a567b8bfeb010db4440be6fc590b89fe259b178
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Mon Aug 12 12:04:48 2024 +0000
+
+    Changed sequential cut off variable to rows divide by number of processors
+
+commit 2023acf930bae922ce85fb94c82c8cd2efa7c6d6
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Sun Aug 11 19:21:52 2024 +0000
+
+    Renamed the file or package name
+
+commit 49b4dafa966f2512f762017861fa036a5f53023c
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Sat Aug 10 19:20:23 2024 +0000
+
+    Changed sequential cut-off to a constant variable that is 10
+
+commit fb9aae72c2be9bbcb6f3bc047f0d1669e64eb270
+Author: Banele Magobiyane <mgbban003@myuct.ac.za>
+Date:   Sat Aug 10 19:14:09 2024 +0000
+
+    Adde parallel version of abelian sandpile
